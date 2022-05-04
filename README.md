@@ -1,8 +1,6 @@
 # SQL Resources
 
-Here's a comprehensive list of free SQL resources which I have mostly attempted myself or are highly recommended for and by beginners. 
-
-Cheers.
+Here's a comprehensive list of free SQL resources which most of them I have practiced and attempted myself or are highly recommended for beginners regardless of whether you're from data or non-data background.
 
 ***
 
